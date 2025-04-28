@@ -1,5 +1,6 @@
 # This is a model to represent customer data with basic cleaning and transformation applied
 # this is an additional comment
+# this is a different conflict
 # this is a third comment to cause a conflict
 models:
   - name: stg_customers
