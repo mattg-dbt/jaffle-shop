@@ -1,6 +1,10 @@
 # This is a model to represent customer data with basic cleaning and transformation applied
 # this is an additional comment
+<<<<<<< HEAD
 # this is a different conflict
+=======
+# this is a third comment to cause a conflict
+>>>>>>> 746abed72b02749e7f9899c8a37deee18f0dc29d
 models:
   - name: stg_customers
     description: Customer data with basic cleaning and transformation applied, one row per customer.
