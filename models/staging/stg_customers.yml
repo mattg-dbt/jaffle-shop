@@ -1,4 +1,5 @@
 # This is a model to represent customer data with basic cleaning and transformation applied
+# this is an additional comment
 models:
   - name: stg_customers
     description: Customer data with basic cleaning and transformation applied, one row per customer.
